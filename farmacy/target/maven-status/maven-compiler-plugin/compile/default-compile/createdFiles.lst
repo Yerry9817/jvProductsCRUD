@@ -1,0 +1,5 @@
+com\farmacy\farmacy\products\ProductRepository.class
+com\farmacy\farmacy\products\ProductsService.class
+com\farmacy\farmacy\products\ProductsController.class
+com\farmacy\farmacy\FarmacyApplication.class
+com\farmacy\farmacy\products\Product.class
